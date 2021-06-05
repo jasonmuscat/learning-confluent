@@ -1,0 +1,5 @@
+packages-microsoft-prod.deb
+/kafka-consumer/bin
+/kafka-consumer/obj
+/kafka-producer/bin
+/kafka-producer/bin
