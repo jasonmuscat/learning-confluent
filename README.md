@@ -1,1 +1,1 @@
-# learning-confluent
+# learning-kafka
